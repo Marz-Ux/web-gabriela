@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+._*
+
+# Material de trabajo que no forma parte de la web
+*.pdf
+*.mov
+*.jpeg
+/magnific_*
+
+# Fotos antiguas sin usar
+assets/hero.jpg
+assets/hero-cv.jpg
+assets/gabriela-1.jpg
+assets/gabriela-2.jpg
+assets/gabriela-3.jpg
+assets/gabriela-motion.jpg
